@@ -1,0 +1,2385 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+{
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Anders Automobile GmbH",
+       "Adresse": "Glüsinger Straße 62 , 21217 Hamburg-Meckelfeld",
+       "TEL:": "040-7 61 01 68-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        10.01812,
+        53.41381
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Jaguar",
+       "Partner": "Woltmann Premium Cars GmbH & Co. KG ",
+       "Adresse": "Henri-Dunant-Str. 6 , 28329 Bremen",
+       "TEL:": "0421 / 46 8900"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.88046,
+        53.08071
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent - Filiale",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Woltmann Off Road GmbH & Co. KG",
+       "Adresse": "Henri-Dunant-Str. 6 , 28329 Bremen",
+       "TEL:": "0421 / 46 8900"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.88046,
+        53.08071
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Krüll Premium Cars GmbH",
+       "Adresse": "Rondenbarg 2 , 22525 Hamburg",
+       "TEL:": "040-85 33 23-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        9.92633,
+        53.57263
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent - Filiale",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Markötter GmbH",
+       "Adresse": "Barkhauser Str. 8 , 33106 Paderborn",
+       "TEL:": "05251 - 417 660"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.7202701,
+        51.7060268
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent - Filiale",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Markötter GmbH Bielefeld",
+       "Adresse": "Artur-Ladebeck-Str. 208 , 33647 Bielefeld",
+       "TEL:": "0521-92 36 06-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.5029812,
+        51.9993086
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Avalon Premium Cars GmbH",
+       "Adresse": "Eschborner Str. 1-3 , 61476 Kronberg",
+       "TEL:": "06173 - 999 680"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.53273,
+        50.16772
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Avalon Premium Cars GmbH",
+       "Adresse": "Moosacher Straße 58 , 80809 München",
+       "TEL:": "089-12 15 32 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        11.5533351,
+        48.1863444
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Schwabengarage GmbH",
+       "Adresse": "Georg-Vogel-Strasse 10 , 74080 Heilbronn",
+       "TEL:": "07131-47 05 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        9.2009556,
+        49.1466727
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Autohaus Hentschel GmbH",
+       "Adresse": "Daimlerring 12 , 31135 Hildesheim",
+       "TEL:": "05121-7470"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        9.9954883,
+        52.1654868
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Schwabengarage GmbH",
+       "Adresse": "Cannstatter Straße 46 , 70190 Stuttgart",
+       "TEL:": "0711-28033600"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        9.1923231,
+        48.7888901
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Auto Center Milinski GmbH",
+       "Adresse": "Keltenstraße 8 , 63486 Bruchköbel",
+       "TEL:": "06181-5 78 90-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.9103677,
+        50.1775125
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Sorg Premium Cars GmbH",
+       "Adresse": "Kreuzbergstrasse 44 , 36043 Fulda",
+       "TEL:": "0661 - 495 051"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        9.6980824,
+        50.53956
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "TraderGreen GmbH",
+       "Adresse": "Frankfurter Straße 33 , 38304 Wolfenbüttel",
+       "TEL:": "05331 / 99 28 00"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        10.5124523,
+        52.1639625
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Autohaus eylert GmbH",
+       "Adresse": "Uellendahler Straße 564 , 42109 Wuppertal",
+       "TEL:": "0202 / 24 333 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        7.1739,
+        51.28359
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Autohaus Wolf GmbH",
+       "Adresse": "Schweriner Straße 1 , 45770 Marl",
+       "TEL:": "02365-10 04-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        7.09117,
+        51.6441604
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover",
+       "Partner": "S.Lauff-Automobile GmbH",
+       "Adresse": "Am Schürmannshütt 55 , 47441 Moers",
+       "TEL:": "02841-79 41 00"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        6.6215078,
+        51.4592079
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent - Filiale",
+       "InMotion Marke": "Jaguar",
+       "Partner": "Royal Motors Kempen GmbH ",
+       "Adresse": "Raderthalgürtel 2 , 50968 Köln",
+       "TEL:": "0221 / 934 7800"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        6.95461,
+        50.90412
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Kohl Automobile GmbH",
+       "Adresse": "Neuenhofstraße 160 , 52078 Aachen",
+       "TEL:": "0241-56 88-00"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        6.14703,
+        50.76549
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Heister Special Cars GmbH",
+       "Adresse": "Ruwerer Str. 21 , 54292 Trier",
+       "TEL:": "0651-20909412"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        6.68879,
+        49.7746
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Fuhrmeister Exclusive Automobile GmbH & Co. KG",
+       "Adresse": "Robert-Bosch-Straße 7 , 55129 Mainz",
+       "TEL:": "06131-58 10 11"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.26427,
+        49.95907
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "British Premium Cars GmbH",
+       "Adresse": "In den Siebenmorgen 2 , 56077 Koblenz",
+       "TEL:": "0261 / 962 47 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        7.6433453,
+        50.3716199
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "British Off Road Cars Pütter GmbH",
+       "Adresse": "Masteweg 2 , 58640 Iserlohn",
+       "TEL:": "02371-49 51"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        7.6959521,
+        51.4048925
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Walter Coenen GmbH",
+       "Adresse": "Monschauer Straße 36 , 41068 Mönchengladbach",
+       "TEL:": "02161-93 07 77"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        6.4080355,
+        51.1930596
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Auer Gruppe GmbH",
+       "Adresse": "Bodenseeallee 2 , 78333 Stockach",
+       "TEL:": "07771 - 9305 61"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        9.0293407,
+        47.8404561
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "British Cars Landshut GmbH & Co. KG",
+       "Adresse": "Liebigstraße 8 , 84030 Landshut",
+       "TEL:": "0871 - 709 700"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        12.1480806,
+        48.5521125
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Werner Haas Automobile GmbH",
+       "Adresse": "Südtiroler Straße 4 , 86165 Augsburg",
+       "TEL:": "0821-455 487-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        10.9388402,
+        48.3820875
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Zwerger Premium Cars GmbH & Co. KG",
+       "Adresse": "Meersburger Straße 146 , 88213 Ravensburg",
+       "TEL:": "0751-9 09-80"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        9.584759,
+        47.7794785
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Autohaus Road Star GmbH",
+       "Adresse": "Tennenloher Straße 2-4 , 90425 Nürnberg",
+       "TEL:": "0911 - 307 339 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        11.057686,
+        49.484712
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Auto Bierschneider British Cars GmbH & Co. KG",
+       "Adresse": "Industriestraße 1 , 91171 Greding",
+       "TEL:": "08463 / 602 944 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        11.34882,
+        49.04374
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner - Filiale",
+       "InMotion Marke": "Jaguar",
+       "Partner": "Autosalon Dünnes GmbH ",
+       "Adresse": "Innstraße 11 , 93059 Regensburg",
+       "TEL:": "0941-49088-33"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        12.121506,
+        49.0264582
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Brückner & Hofmann GmbH",
+       "Adresse": "Wachtelberg 33 , 97273 Kürnach",
+       "TEL:": "09367 - 988 58 90"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        10.0172404,
+        49.8412747
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Hedtke Automobile GmbH",
+       "Adresse": "Rudolf-Diesel-Straße 46 , 64331 Weiterstadt",
+       "TEL:": "06151 / 85 066 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.61696,
+        49.89999
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Jolig Automobil Handels GmbH",
+       "Adresse": "Plautstrasse 40b , 04179 Leipzig",
+       "TEL:": "0341 - 441 88 64"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        12.3033594,
+        51.3348686
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "BritCars Riller & Schnauck GmbH",
+       "Adresse": "Warthestraße 15 , 14513 Teltow",
+       "TEL:": "03328-4 42 33-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        13.23997,
+        52.39911
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Autohaus Hansa Nord GmbH",
+       "Adresse": "Berliner Straße 8 , 23560 Lübeck",
+       "TEL:": "0451-58 37 4-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        10.6828439,
+        53.8501112
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Jaguar House Kuntz GmbH",
+       "Adresse": "Eichkoppel 1 , 24214 Gettorf",
+       "TEL:": "04346-41 16-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        9.9846618,
+        54.4128304
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Jaguar House Nehrkorn GmbH & Co. KG",
+       "Adresse": "Liebigstraße 1 , 24941 Flensburg",
+       "TEL:": "0461-84 00 0-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        9.4271098,
+        54.7701878
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Moll GmbH & Co. KG",
+       "Adresse": "Am Seestern 3 , 40547 Düsseldorf",
+       "TEL:": "0211 - 30 230 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        6.7408062,
+        51.2421347
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Kalkan Automobile GmbH",
+       "Adresse": "Würzburger Straße 168 , 63743 Aschaffenburg",
+       "TEL:": "06021 / 583 89 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        9.171031,
+        49.964997
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Premium Cars Rosenheim GmbH",
+       "Adresse": "Rosenheimer Straße 63 , 83059 Kolbermoor",
+       "TEL:": "08031-30 444-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        12.0796138,
+        47.8493789
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Autogalerie Schlickel GmbH",
+       "Adresse": "Am Patentbusch 11 , 26125 Oldenburg",
+       "TEL:": "0441 / 390 39 60"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.2268901,
+        53.1956693
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Hugo Pfohe GmbH",
+       "Adresse": "Hindenburgstrasse 167 , 22297 Hamburg",
+       "TEL:": "040-500 60 500"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        10.0067914,
+        53.6170199
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Premium Cars Peters GmbH & Co. KG",
+       "Adresse": "Hannöversche Straße 44 , 44143 Dortmund",
+       "TEL:": "0231-91 20 40-60"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        7.5017102,
+        51.5215226
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Autohaus Leifkes GmbH & Co. KG",
+       "Adresse": "Borkener Straße 87 , 48653 Coesfeld",
+       "TEL:": "02541-10 73"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        7.144695,
+        51.9409707
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "La Linea Franca Kfz-Handels-GmbH",
+       "Adresse": "Christian-Lassen-Straße 1 , 53117 Bonn",
+       "TEL:": "0228-5 59 10-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        7.0577216,
+        50.7538214
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Geuss Automobil GmbH",
+       "Adresse": "Am Forst 12 , 92637 Weiden",
+       "TEL:": "0961 / 38 941 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        12.1606935,
+        49.701538
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar (S)",
+       "Partner": "Autocenter Wimmer GmbH & Co. KG",
+       "Adresse": "Pionierstraße 1 , 94036 Passau",
+       "TEL:": "0851 / 9 88 77 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        13.4160317,
+        48.5558553
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "MGS Motor Gruppe Sticht GmbH & Co. KG",
+       "Adresse": "Bismarckstraße 73-75 , 95444 Bayreuth",
+       "TEL:": "0921 - 507 205 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        11.5592797,
+        49.9395345
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent - Filiale",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Autohaus F. J. Kempen GmbH",
+       "Adresse": "Raderthalgürtel 2 , 50968 Köln",
+       "TEL:": "0221 / 934 7800"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        6.95461,
+        50.90412
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover",
+       "Partner": "AHG Autohandelsgesellschaft mbH",
+       "Adresse": "Weberstr. 19 , 72160 Horb am Neckar",
+       "TEL:": "07451/ 53 99 88"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.6971323,
+        48.4567163
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "SWB Fahrzeugtechnik GmbH",
+       "Adresse": "Fabrikstraße 8 , 73061 Ebersbach an der Fils",
+       "TEL:": "07163-9 12 30-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        9.5361374,
+        48.7164619
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Premium Automobile Freiburg GmbH",
+       "Adresse": "Bötzinger Str. 25 , 79111 Freiburg im Breisgau",
+       "TEL:": "0761-4 52 35-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        7.7886245,
+        47.9877715
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Reichstein & Opitz GmbH",
+       "Adresse": "Amsterdamer Straße 1 , 07747 Jena",
+       "TEL:": "03641-37 59-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        11.6205091,
+        50.8772083
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Autohaus Mühlenhort GmbH Schwerin - Wismar",
+       "Adresse": "Bremsweg 16 , 19057 Schwerin-Lankow",
+       "TEL:": "0385 / 48 95 00"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        11.3502068,
+        53.6435995
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Auto Eder Traunstein Zweigniederlassung der Auto Eder GmbH",
+       "Adresse": "Chiemseestrasse 38 , 83278 Traunstein",
+       "TEL:": "0861-909900"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        12.6271606,
+        47.8676228
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent - Filiale",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Premium-Cars Krefeld, Niederlassung der Autohaus Dinnebier GmbH",
+       "Adresse": "Mevissenstraße 55 , 47803 Krefeld",
+       "TEL:": "02151 - 87 38 50"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        6.5319121,
+        51.3483439
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Glinicke British Cars Frankfurt am Main GmbH & Co. KG",
+       "Adresse": "Hanauer Landstraße 295 , 60314 Frankfurt",
+       "TEL:": "069 - 949 434 55 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.7267325,
+        50.1167338
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent - Filiale",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Premium Cars - Niederlassung der AH Dinnebier GmbH",
+       "Adresse": "Brunsbütteler Damm 192 , 13581 Berlin",
+       "TEL:": "030-3 51 07- 200"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        13.1700605,
+        52.5339168
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner - Filiale",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Hans Becker GmbH & Co. KG",
+       "Adresse": "Wilhelm-Lantermann-Straße 102 , 46535 Dinslaken",
+       "TEL:": "02064-41030"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        6.7323201,
+        51.5690262
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner - Filiale",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Stopka Hannover GmbH & Co. KG",
+       "Adresse": "Industrieweg 32 , 30179 Hannover",
+       "TEL:": "0511 / 807 254 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        9.727894,
+        52.4214421
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner - Filiale",
+       "InMotion Marke": "Jaguar",
+       "Partner": "Auto-Sport-Stopka GmbH & Co.KG ",
+       "Adresse": "Detmolder Str. 301 , 33605 Bielefeld",
+       "TEL:": "0521 / 92 22 20"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.5690509,
+        52.0024801
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Auto Hartmann GmbH",
+       "Adresse": "Im Moos 3 , 87435 Kempten",
+       "TEL:": "0831-9604600"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        10.3133651,
+        47.7074731
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Premium Cars - Niederlassung der AH Dinnebier GmbH",
+       "Adresse": "Kurfürstendamm 106-108 , 10711 Berlin",
+       "TEL:": "030 / 89 40 87 200"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        13.29367,
+        52.49792
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Glinicke British Cars Kassel GmbH & Co. KG",
+       "Adresse": "Leipziger Straße 291b , 34123 Kassel",
+       "TEL:": "0561-766160"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        9.5405331,
+        51.2975816
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner - Filiale",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Stopka Münster GmbH & Co. KG",
+       "Adresse": "Kölner Strasse 2 , 48163 Münster",
+       "TEL:": "0251 / 60 93 304 10"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        7.68598,
+        51.91113
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner - Filiale",
+       "InMotion Marke": "Land Rover",
+       "Partner": "AHG Autohandelsgesellschaft mbH",
+       "Adresse": "Industriestraße 14 , 76547 Sinzheim",
+       "TEL:": "07221-98 09-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.17282,
+        48.77137
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner - Filiale",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Autohaus Stefan Geisser GmbH",
+       "Adresse": "Ladenburger Str. 51-53 , 68309 Mannheim",
+       "TEL:": "0621/ 835 98 99 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.5234984,
+        49.5108452
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent - Filiale",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Markötter GmbH",
+       "Adresse": "Füllenbruchstraße 1-5 , 32051 Herford",
+       "TEL:": "05221-9 94 47-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.6596156,
+        52.1312258
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent - Filiale",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Markötter GmbH",
+       "Adresse": "Auf'm Kampe 1-11 , 33334 Gütersloh",
+       "TEL:": "05241-95 04-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.3605944,
+        51.8854162
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner - Filiale",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "La Linea Franca Kfz-Handels-GmbH",
+       "Adresse": "Zur Ostspange 2 , 66121 Saarbrücken",
+       "TEL:": "0681 - 968 543 00"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        7.0218549,
+        49.226068
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00ff26",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "NUR SERVICE",
+       "InMotion Marke": "Land Rover(S)",
+       "Partner": "Auto Reschke GmbH",
+       "Adresse": "Planiger Straße 106 , 55543 Bad Kreuznach",
+       "TEL:": "0671 / 89 66 59 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        7.87331,
+        49.84816
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner - Filiale",
+       "InMotion Marke": "Jaguar(S)",
+       "Partner": "Autohaus Geisser GmbH",
+       "Adresse": "Hubertusstr. 19 , 76532 Baden-Baden",
+       "TEL:": "07221-39 89 88 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.2040521,
+        48.7810499
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner - Filiale",
+       "InMotion Marke": "Land Rover(S)",
+       "Partner": "AHG Autohandelsgesellschaft mbH",
+       "Adresse": "Lange Str. 23 , 72336 Balingen",
+       "TEL:": "074 33 - 9920 2000"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.8504339,
+        48.2605264
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00ff26",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "NUR SERVICE",
+       "InMotion Marke": "Land Rover(S)",
+       "Partner": "Autohaus Weil e.K.",
+       "Adresse": "Georg-Ohm-Straße 3 , 74235 Erlenbach",
+       "TEL:": "07132 - 99 01 36"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        9.2396366,
+        49.1807444
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00ff26",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "NUR SERVICE",
+       "InMotion Marke": "Land Rover(S)",
+       "Partner": "Autohaus Krumey Und Gilles GmbH",
+       "Adresse": "Cäcilienstraße 2-8 , 45479 Mülheim - Ruhr",
+       "TEL:": "0208-4 19 75-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        6.86997,
+        51.42991
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00ff26",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "NUR SERVICE",
+       "InMotion Marke": "Land Rover (S), Jaguar(S)",
+       "Partner": "AHM GmbH & Co. KG",
+       "Adresse": "An der Fohlenweide 17 , 67112 Mutterstadt",
+       "TEL:": "06234 - 80 10 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.36512,
+        49.42625
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00ff26",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "NUR SERVICE",
+       "InMotion Marke": "Land Rover(S)",
+       "Partner": "Autohaus Schuble e. K.",
+       "Adresse": "Brandhof 14 , 79227 Schallstadt",
+       "TEL:": "07664 60 549"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        7.75803,
+        47.96116
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00ff26",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "NUR SERVICE",
+       "InMotion Marke": "Land Rover(S)",
+       "Partner": "Autohaus Ochner GmbH",
+       "Adresse": "Herrenalber Straße 7 , 75334 Straubenhardt",
+       "TEL:": "07082 / 92 47 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.5305066,
+        48.8423363
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Autopark Ehreshoven GmbH & Co.KG",
+       "Adresse": "Im Auel 62 , 51766 Engelskirchen",
+       "TEL:": "02263-92 32-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        7.3509699,
+        50.9760831
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent - Filiale",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Autopark Lüdenscheid GmbH",
+       "Adresse": "Lennestraße 5 , 58507 Lüdenscheid",
+       "TEL:": "02351-9 29 60-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        7.6373644,
+        51.2277156
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Autohaus an der Wilhelmsbrücke GmbH",
+       "Adresse": "Wilhelmstraße 22 , 16225 Eberswalde",
+       "TEL:": "03334-23 96 18"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        13.8085624,
+        52.8364434
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner - Filiale",
+       "InMotion Marke": "Land Rover (S), Jaguar(S)",
+       "Partner": "BOR Schneider Gruppe GmbH",
+       "Adresse": "Lengenfelder Straße 17 , 08064 Zwickau",
+       "TEL:": "0375-270 169-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        12.57379,
+        50.6917
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Autohaus Beil GmbH",
+       "Adresse": "Siegener Straße 24 , 35066 Frankenberg",
+       "TEL:": "06451 / 72 54 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.7841291,
+        51.0525102
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent - Filiale",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Avalon Premium Cars GmbH",
+       "Adresse": "Felix-Wankel-Strasse 44-70 , 70794 Filderstadt",
+       "TEL:": "+49-711-21393-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        9.1933546,
+        48.6773427
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent - Filiale",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Markötter GmbH",
+       "Adresse": "Sprottauer Straße 45 , 32756 Detmold",
+       "TEL:": "05231 / 600 80"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.8567634,
+        51.937735
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar (S)",
+       "Partner": "Autohaus Dangel GmbH",
+       "Adresse": "Agnes-Bluhm-Straße 2 , 18442 Stralsund",
+       "TEL:": "03831 / 47 25 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        13.0468546,
+        54.2805663
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar (S)",
+       "Partner": "D+S Automobile GmbH & Co. KG",
+       "Adresse": "Im Waldeck 15 , 71679 Asperg",
+       "TEL:": "07141-6 48 27 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        9.15179,
+        48.89247
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Dünnes Automobile GmbH",
+       "Adresse": "Innstraße 11 , 93059 Regensburg",
+       "TEL:": "0941-4908844"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        12.121506,
+        49.0264582
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner - Filiale",
+       "InMotion Marke": "Land Rover",
+       "Partner": "BOR Schneider Gruppe GmbH",
+       "Adresse": "Schleizer Straße 101 , 95028 Hof",
+       "TEL:": "09281 / 86 00 10 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        11.91122,
+        50.33479
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Autohaus Stefan Geisser GmbH",
+       "Adresse": "Sudetenstraße 75 , 76187 Karlsruhe",
+       "TEL:": "0721-5704430"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.3540137,
+        49.03733
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Autohaus Henke GmbH",
+       "Adresse": "Werner-von-Siemens-Ring 16 , 39116 Magdeburg",
+       "TEL:": "0391-8 18 39-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        11.58254,
+        52.082367
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Autohaus Holz GmbH",
+       "Adresse": "Hainbachstraße 70 , 76829 Landau",
+       "TEL:": "06341 - 96 52 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.12484,
+        49.20673
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Autopark Hoyer GmbH",
+       "Adresse": "Gottlieb-Daimler-Straße 15 , 29664 Walsrode",
+       "TEL:": "05161-98 22-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        9.6243,
+        52.8650687
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00ff26",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "NUR SERVICE",
+       "InMotion Marke": "Land Rover (S), Jaguar(S)",
+       "Partner": "Jäckle Automobile KG",
+       "Adresse": "Kirchdorfer Straße 80 , 86825 Bad Wörishofen",
+       "TEL:": "08247-3 99-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        10.5950402,
+        48.0220332
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00ff26",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "NUR SERVICE",
+       "InMotion Marke": "Land Rover(S)",
+       "Partner": "Jens Probst Automobile",
+       "Adresse": "Sulzbrunnenstraße 16 , 74564 Crailsheim",
+       "TEL:": "07951 / 91 22 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        10.091569,
+        49.119606
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Autohaus Löbau GmbH Löbau",
+       "Adresse": "An Der Hohle 15 , 02708 Löbau",
+       "TEL:": "03585-47 95-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        14.6801016,
+        51.0756622
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar (S)",
+       "Partner": "Autohaus Robert Köhler GmbH",
+       "Adresse": "Industriestraße 11 , 57572 Niederfischbach",
+       "TEL:": "02734-57 55-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        7.85834,
+        50.84629
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner - Filiale",
+       "InMotion Marke": "Land Rover(S)",
+       "Partner": "La Linea Franca Kfz-Handels-GmbH",
+       "Adresse": "An der Vogelrute 53 , 53879 Euskirchen",
+       "TEL:": "02251-98 68-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        6.8012422,
+        50.6543564
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Matzker KFZ-Technik GmbH",
+       "Adresse": "Robert-Perthel-Straße 31 , 50739 Köln",
+       "TEL:": "0221-546 32 36"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        6.91486,
+        50.98228
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00ff26",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "NUR SERVICE",
+       "InMotion Marke": "Land Rover(S), Jaguar(S)",
+       "Partner": "MGS Motor Gruppe Sachsen GmbH & Co. KG",
+       "Adresse": "Meißner Straße 11 , 01445 Radebeul",
+       "TEL:": "0351-83 93 97-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        13.6978723,
+        51.0932604
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Andreas Ehrl  & Co. GmbH",
+       "Adresse": "Am Seegraben 4 , 03051 Cottbus",
+       "TEL:": "0355-58 40 9 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        14.31624,
+        51.71957
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Kohler Automobile GmbH",
+       "Adresse": "Bahnhofstr. 25 , 86857 Hurlach",
+       "TEL:": "08248 / 96 990 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        10.83798,
+        48.12532
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00ff26",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "NUR SERVICE",
+       "InMotion Marke": "Land Rover(S)",
+       "Partner": "Rinkert GmbH & Co.KG",
+       "Adresse": "Im Steinernen Kreuz 13-15 , 75449 Wurmberg",
+       "TEL:": "07044 / 95 00 09"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.80658,
+        48.87394
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Torpedo Garage Pfalz GmbH & Co. KG",
+       "Adresse": "August-Herrmann-Str. 2 , 67655 Kaiserslautern",
+       "TEL:": "0631 / 34 26 13 01"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        7.7857266999999997,
+        49.444126900000001
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00ff26",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "NUR SERVICE",
+       "InMotion Marke": "Land Rover (S), Jaguar(S)",
+       "Partner": "Schuttenbach Automobile GmbH & Co. KG",
+       "Adresse": "Gutenbergstraße 11 , 85646 Anzing",
+       "TEL:": "08121 / 427 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        11.85405,
+        48.14377
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar (S)",
+       "Partner": "R.S. Autohaus exclusiv GmbH",
+       "Adresse": "Kaiserslauterner Straße 3 , 14772 Brandenburg a.d. Havel",
+       "TEL:": "03381 / 700 180"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        12.5280963,
+        52.4393368
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar (S)",
+       "Partner": "Auto Böhm GmbH & CO. KG",
+       "Adresse": "Werner-Von-Siemens-Straße 104 , 64711 Erbach",
+       "TEL:": "06062-94 14-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.9981079,
+        49.6698539
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Griesbeck Premium Automobile GmbH & Co. KG",
+       "Adresse": "Hauptstraße 27a , 94469 Deggendorf",
+       "TEL:": "0991-37016-17"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        12.9513957,
+        48.8220519
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Glinicke British Cars Göttingen GmbH & Co. KG",
+       "Adresse": "Grosse Breite 3 , 37077 Göttingen",
+       "TEL:": "0551 5030650"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        9.92917,
+        51.55975
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Autohaus Am Eichberg GmbH",
+       "Adresse": "Coburger Straße 2a , 96487 Dörfles-Esbach",
+       "TEL:": "09561 / 35 75 71 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        10.9913847,
+        50.2797803
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover",
+       "Partner": "Autohaus Schorr GmbH",
+       "Adresse": "An der Henne 22 , 99085 Erfurt",
+       "TEL:": "0361 / 420 44 11"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        11.0846844,
+        50.9785274
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#ff2600",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Interessent",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Sachsengarage GmbH",
+       "Adresse": "Liebstädter Straße 5 , 01277 Dresden",
+       "TEL:": "0351-4201-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        13.7823954,
+        51.0265086
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "BOR Schneider Gruppe GmbH",
+       "Adresse": "Hilbersdorfer Str. 1 , 09131 Chemnitz",
+       "TEL:": "0371-45000-0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        12.9355719,
+        50.8464782
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner - Filiale",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Stopka Essen GmbH & Co. KG",
+       "Adresse": "Pferdebahnstraße 70 , 45141 Essen",
+       "TEL:": "0201 560 507 25"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        6.9846762,
+        51.4666404
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner - Filiale",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Stopka Münster GmbH & Co. KG",
+       "Adresse": "Pagenstecherstrasse 74 , 49090 Osnabrück",
+       "TEL:": "0541 201 956 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        8.02386,
+        52.29137
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner - Filiale",
+       "InMotion Marke": "Land Rover(S), Jaguar(S)",
+       "Partner": "BritCars Riller & Schnauck GmbH",
+       "Adresse": "Am Studio 10 , 12489 Berlin",
+       "TEL:": "030 70 76 13 230"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        13.54484,
+        52.42666
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00d9ff",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "Partner",
+       "InMotion Marke": "Land Rover, Jaguar",
+       "Partner": "Feser Scharf GmbH",
+       "Adresse": "Emil-Kemmer-Strasse 23 , 96103 Hallstadt",
+       "TEL:": "0951 700 297 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        10.87373,
+        49.91806
+         ]
+       }
+      },
+   {
+   "type": "Feature",
+    "properties": {
+       "marker-color": "#00ff26",
+       "marker-size": "medium",
+       "marker-symbol": "marker",
+       "Status": "NUR SERVICE",
+       "InMotion Marke": "Land Rover(S), Jaguar(S)",
+       "Partner": "Moll GmbH & Co. KG",
+       "Adresse": "Hammer Landstr. 47 , 41460 Neuss",
+       "TEL:": "02131 92 27 0"
+     },
+       "geometry": { 
+       "type": "Point",
+       "coordinates": [
+        6.70465,
+        51.20195
+         ]
+       }
+      }
+	 ]
+ }
