@@ -9,7 +9,7 @@
     render: ({ trace, element }) => {
       const formContainer = document.createElement('form');
 
-      formContainer.innerHTML = 
+      formContainer.innerHTML = `
         <style>
           label {
             font-size: 0.8em;
@@ -66,7 +66,7 @@
         <input type="text" class="phone" name="phone" required><br><br>
 
         <input type="submit" class="submit" value="Submit">
-      ;
+      `;
 
       formContainer.addEventListener('input', function () {
         // Entfernen der 'invalid' Klasse, wenn die Eingabe gültig wird
@@ -148,7 +148,7 @@
         const cameraContainer = document.createElement('div');
 
         // CSS für das Kamera-Widget
-        cameraContainer.innerHTML = 
+        cameraContainer.innerHTML = `
           <style>
             .cameraModal {
               display: flex;
@@ -241,7 +241,7 @@
               <canvas id="canvas" style="display:none;"></canvas>
             </div>
           </div>
-        ;
+        `;
 
         element.appendChild(cameraContainer);
 
@@ -354,7 +354,7 @@
       trace?.type === 'ext_fileUpload' || trace?.payload?.name === 'ext_fileUpload',
     render: ({ trace, element }) => {
       const fileUploadContainer = document.createElement('div');
-      fileUploadContainer.innerHTML = 
+      fileUploadContainer.innerHTML = `
         <style>
           .my-file-upload {
             border: 2px dashed rgba(46, 110, 225, 0.3);
@@ -365,7 +365,7 @@
         </style>
         <div class='my-file-upload'>Drag and drop a PDF here or click to upload</div>
         <input type='file' style='display: none;' accept=".pdf">
-    ;
+    `;
 
       const fileInput = fileUploadContainer.querySelector('input[type=file]');
       const fileUploadBox = fileUploadContainer.querySelector('.my-file-upload');
@@ -381,9 +381,9 @@
           return;
         }
 
-        fileUploadContainer.innerHTML = 
+        fileUploadContainer.innerHTML = `
           <img src='https://s3.amazonaws.com/com.voiceflow.studio/share/upload/upload.gif' alt='Upload' width='50' height='50'>
-        ;
+        `;
 
         const reader = new FileReader();
 
@@ -429,7 +429,7 @@
 
     console.log("Gemini API Response:", result); //Log the response
 
-      fileUploadContainer.innerHTML = <img src="https://s3.amazonaws.com/com.voiceflow.studio/share/check/check.gif" alt="Done" width="50" height="50">;
+      fileUploadContainer.innerHTML = `<img src="https://s3.amazonaws.com/com.voiceflow.studio/share/check/check.gif" alt="Done" width="50" height="50">`;
 
       window.voiceflow.chat.interact({
         type: 'complete',
